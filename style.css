@@ -154,13 +154,13 @@ p {
 	-ms-transform:translate(-50%,-50%);
 	transform:translate(-50%,-50%);
 }
-.sk-double-bounce {
+.salvin-double-bounce {
 	width: 40px;
 	height: 40px;
 	position: relative;
 	margin: 40px auto;
 }
-.sk-double-bounce .sk-child {
+.salvin-double-bounce .salvin-child {
 	width: 100%;
 	height: 100%;
 	border-radius: 50%;
@@ -172,7 +172,7 @@ p {
 	-webkit-animation: sk-doubleBounce 2s infinite ease-in-out;
 	animation: sk-doubleBounce 2s infinite ease-in-out; 
 }
-.sk-double-bounce .sk-double-bounce2 {
+.salvin-double-bounce .salvin-double-bounce2 {
 	-webkit-animation-delay: -1.0s;
 	animation-delay: -1.0s; 
 }
